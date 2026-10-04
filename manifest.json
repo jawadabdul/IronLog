@@ -1,0 +1,21 @@
+{
+  "name": "IronLog Gym Workout Tracker",
+  "short_name": "IronLog",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101411",
+  "theme_color": "#101411",
+  "description": "Personal offline-friendly strength workout tracker",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
