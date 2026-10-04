@@ -18,3 +18,12 @@ Open `index.html` in a modern desktop browser. For the installable/offline PWA f
 ## Data persistence and limitations
 Workout data is stored in localStorage in the browser on that device. It is not synced to iCloud or other devices. Clearing Safari website data can delete it. Use More → Data & settings → Export regularly to download a JSON backup. Restore using Import.
 This is a starter personal tracker, not a medically validated training plan. Use safe form and suitable loads.
+
+
+## Version 3 dashboard updates
+- Personalized Jawad’s Personal Training Log title, daily non-repeating quote rotation, and a single Today workout card.
+- Rest-day recovery illustration instead of a muscle map.
+- Front/back schematic muscle map with exercise-related muscle regions highlighted in the exercise detail sheet.
+- My Profile fields for body weight, height, age, goal, and notes.
+- Home dashboard analysis: sessions this week, completed sets, average sets/session, consistency, recent set volume chart, and body-weight trend.
+- Service worker cache version bumped so GitHub Pages can refresh the app shell.
